@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="M2_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="M2_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="14935580000000fs"></ZoomStartTime>
+      <ZoomEndTime time="15440080000001fs"></ZoomEndTime>
+      <Cursor1Time time="15026580000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="119"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="7" />
+   <wvobject fp_name="/M2_tb/RST" type="logic">
+      <obj_property name="ElementShortName">RST</obj_property>
+      <obj_property name="ObjectShortName">RST</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M2_tb/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M2_tb/DUT/En_10Hz_i" type="logic">
+      <obj_property name="ElementShortName">En_10Hz_i</obj_property>
+      <obj_property name="ObjectShortName">En_10Hz_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M2_tb/DUT/En_4Hz_i" type="logic">
+      <obj_property name="ElementShortName">En_4Hz_i</obj_property>
+      <obj_property name="ObjectShortName">En_4Hz_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M2_tb/btn_up" type="logic">
+      <obj_property name="ElementShortName">btn_up</obj_property>
+      <obj_property name="ObjectShortName">btn_up</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M2_tb/btn_down" type="logic">
+      <obj_property name="ElementShortName">btn_down</obj_property>
+      <obj_property name="ObjectShortName">btn_down</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M2_tb/vecPWM" type="array">
+      <obj_property name="ElementShortName">vecPWM[7:0]</obj_property>
+      <obj_property name="ObjectShortName">vecPWM[7:0]</obj_property>
+   </wvobject>
+</wave_config>

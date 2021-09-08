@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sun Dec 20 13:31:03 2020
+# Process ID: 6800
+# Current directory: C:/Users/Ihor Yasnyy/Desktop/Practica3/P3-M2/P3-1.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Ihor Yasnyy/Desktop/Practica3/P3-M2/P3-1.sim/sim_1/behav/xsim/xsim.dir/M2_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Ihor Yasnyy/Desktop/Practica3/P3-M2/P3-1.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/Ihor Yasnyy/Desktop/Practica3/P3-M2/P3-1.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Ihor -notrace
+couldn't read file "C:/Users/Ihor": no such file or directory
+INFO: [Common 17-206] Exiting Webtalk at Sun Dec 20 13:31:03 2020...
