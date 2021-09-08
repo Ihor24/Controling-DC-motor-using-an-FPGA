@@ -1,0 +1,40 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto a521e38a071845a39538442e2a031cd8 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot M1_M2_M3_M4_M5_tb_behav xil_defaultlib.M1_M2_M3_M4_M5_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_textio
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package unisim.vcomponents
+Compiling package unimacro.vcomponents
+Compiling package ieee.std_logic_signed
+Compiling package ieee.vital_timing
+Compiling package ieee.vital_primitives
+Compiling package unisim.vpkg
+Compiling architecture rtl of entity xil_defaultlib.reloj [reloj_default]
+Compiling architecture secuencial of entity xil_defaultlib.FSM_direccion [fsm_direccion_default]
+Compiling architecture rtl of entity xil_defaultlib.M1 [m1_default]
+Compiling architecture rtl of entity xil_defaultlib.M2 [m2_default]
+Compiling architecture arc_hex2bcd of entity xil_defaultlib.hex2bcd [hex2bcd_default]
+Compiling architecture arc_hex2bcd of entity xil_defaultlib.hex2bcd2 [hex2bcd2_default]
+Compiling architecture rtl of entity xil_defaultlib.bcd2seg [bcd2seg_default]
+Compiling architecture secuencial of entity xil_defaultlib.FSM_modo [fsm_modo_default]
+Compiling architecture rtl of entity xil_defaultlib.M3 [m3_default]
+Compiling architecture dsp48e1_v of entity unisim.DSP48E1 [\DSP48E1(acascreg=0,adreg=0,areg...]
+Compiling architecture mult of entity unimacro.MULT_MACRO [\MULT_MACRO(device="7SERIES",lat...]
+Compiling architecture rtl of entity xil_defaultlib.multiplicador [multiplicador_default]
+Compiling architecture rtl of entity xil_defaultlib.M4 [m4_default]
+Compiling architecture rtl of entity xil_defaultlib.multiplicador2 [multiplicador2_default]
+Compiling architecture rtl of entity xil_defaultlib.M5 [m5_default]
+Compiling architecture rtl of entity xil_defaultlib.M1_M2_M3_M4_M5 [m1_m2_m3_m4_m5_default]
+Compiling architecture testbench of entity xil_defaultlib.m1_m2_m3_m4_m5_tb
+Built simulation snapshot M1_M2_M3_M4_M5_tb_behav

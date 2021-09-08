@@ -1,0 +1,30 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Ihor Yasnyy/Desktop/Practica3/FSM_direccion.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FSM_direccion
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Ihor Yasnyy/Desktop/Practica3/FSM_modo.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FSM_modo
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Ihor Yasnyy/Desktop/Practica3/M1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity M1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Ihor Yasnyy/Desktop/Practica3/M1_M2_M3_M4_M5.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity M1_M2_M3_M4_M5
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Ihor Yasnyy/Desktop/Practica3/M2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity M2
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Ihor Yasnyy/Desktop/Practica3/M3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity M3
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Ihor Yasnyy/Desktop/Practica3/M4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity M4
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Ihor Yasnyy/Desktop/Practica3/M5.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity M5
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Ihor Yasnyy/Desktop/Practica3/bcd2seg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bcd2seg
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Ihor Yasnyy/Desktop/Practica3/bin2bcd.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity hex2bcd
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Ihor Yasnyy/Desktop/Practica3/bin2bcd2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity hex2bcd2
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Ihor Yasnyy/Desktop/Practica3/multiplicador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity multiplicador
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Ihor Yasnyy/Desktop/Practica3/multiplicador2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity multiplicador2
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Ihor Yasnyy/Desktop/Practica3/reloj.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity reloj
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Ihor Yasnyy/Desktop/Practica3/M1_M2_M3_M4_M5_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity M1_M2_M3_M4_M5_tb

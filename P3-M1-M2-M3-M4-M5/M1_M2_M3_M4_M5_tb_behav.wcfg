@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="M1_M2_M3_M4_M5_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="M1_M2_M3_M4_M5_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="12858910000000fs"></ZoomStartTime>
+      <ZoomEndTime time="13038910000001fs"></ZoomEndTime>
+      <Cursor1Time time="13010910000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="147"></NameColumnWidth>
+      <ValueColumnWidth column_width="127"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/M1_M2_M3_M4_M5_tb/RST" type="logic">
+      <obj_property name="ElementShortName">RST</obj_property>
+      <obj_property name="ObjectShortName">RST</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M1_M2_M3_M4_M5_tb/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M1_M2_M3_M4_M5_tb/sw_Dir" type="logic">
+      <obj_property name="ElementShortName">sw_Dir</obj_property>
+      <obj_property name="ObjectShortName">sw_Dir</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M1_M2_M3_M4_M5_tb/btn_up" type="logic">
+      <obj_property name="ElementShortName">btn_up</obj_property>
+      <obj_property name="ObjectShortName">btn_up</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M1_M2_M3_M4_M5_tb/btn_down" type="logic">
+      <obj_property name="ElementShortName">btn_down</obj_property>
+      <obj_property name="ObjectShortName">btn_down</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M1_M2_M3_M4_M5_tb/sw_sel_display" type="logic">
+      <obj_property name="ElementShortName">sw_sel_display</obj_property>
+      <obj_property name="ObjectShortName">sw_sel_display</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M1_M2_M3_M4_M5_tb/pinSA" type="logic">
+      <obj_property name="ElementShortName">pinSA</obj_property>
+      <obj_property name="ObjectShortName">pinSA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M1_M2_M3_M4_M5_tb/pinSB" type="logic">
+      <obj_property name="ElementShortName">pinSB</obj_property>
+      <obj_property name="ObjectShortName">pinSB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M1_M2_M3_M4_M5_tb/pinDir" type="logic">
+      <obj_property name="ElementShortName">pinDir</obj_property>
+      <obj_property name="ObjectShortName">pinDir</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M1_M2_M3_M4_M5_tb/pinEn" type="logic">
+      <obj_property name="ElementShortName">pinEn</obj_property>
+      <obj_property name="ObjectShortName">pinEn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M1_M2_M3_M4_M5_tb/Seg7_code" type="array">
+      <obj_property name="ElementShortName">Seg7_code[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Seg7_code[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M1_M2_M3_M4_M5_tb/Sel_displays" type="array">
+      <obj_property name="ElementShortName">Sel_displays[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Sel_displays[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M1_M2_M3_M4_M5_tb/DUT/Conexion_M5/rpm_i" type="array">
+      <obj_property name="ElementShortName">rpm_i[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rpm_i[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M1_M2_M3_M4_M5_tb/DUT/Conexion_M5/vec_PWM_i" type="array">
+      <obj_property name="ElementShortName">vec_PWM_i[7:0]</obj_property>
+      <obj_property name="ObjectShortName">vec_PWM_i[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M1_M2_M3_M4_M5_tb/DUT/Conexion_M5/producto_i" type="array">
+      <obj_property name="ElementShortName">producto_i[11:0]</obj_property>
+      <obj_property name="ObjectShortName">producto_i[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/M1_M2_M3_M4_M5_tb/DUT/Conexion_M5/velocidad" type="array">
+      <obj_property name="ElementShortName">velocidad[7:0]</obj_property>
+      <obj_property name="ObjectShortName">velocidad[7:0]</obj_property>
+   </wvobject>
+</wave_config>
